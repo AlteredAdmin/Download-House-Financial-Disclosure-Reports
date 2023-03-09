@@ -1,4 +1,4 @@
-title = '''
+'''
 
 ####################################################################
 
@@ -65,9 +65,6 @@ NOTES
 
 '''
 
-print()
-print (title)
-print()
 
 import datetime
 import wget
