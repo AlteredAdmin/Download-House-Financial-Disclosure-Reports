@@ -50,6 +50,8 @@ Here is a step-by-step breakdown of the script's functionality:
 - Always ensure you have the required storage space available, especially if running this script frequently, as financial disclosure reports can be sizable.
 - Regularly check the U.S. House of Representatives' website structure. If they undergo any structural changes to their site or the way reports are stored, the script might need adjustments.
 
+---
+
 ## Support the Developer
 
 If you found this helpful, please consider:
